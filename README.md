@@ -1,7 +1,7 @@
 # Tetcore CLI Tools
 
 Small console toolset for getting information about Substrate nodes and working with smart contracts.\
-At the moment, implemented in Typescript. In future, it is going to be ported to Rust with usage of `substrate-subxt`.
+At the moment, implemented in Typescript. In future, it is going to be ported to Rust with usage of `tetcore-tetxt`.
 
 # Installation
 
